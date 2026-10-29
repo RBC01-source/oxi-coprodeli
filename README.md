@@ -2,7 +2,7 @@
 
 Registro interno de los casos de Obras por Impuestos (OXI, iniciativa de interés privado) en los que COPRODELI elabora el diseño del colegio.
 
-**Repositorio privado.** No compartir con las empresas financistas.
+Web de seguimiento: https://rbc01-source.github.io/oxi-coprodeli/
 
 | Caso | Empresa | Gestión | Carpeta |
 |---|---|---|---|
